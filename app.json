@@ -1,0 +1,11 @@
+{
+    "name": "JSFORCE_TEST",
+    "description": "JSFORCE TEST",
+    "keywords": [
+      "app-cloud"
+    ],
+    "repository": "https://github.com/YOUR_USERNAME/intro-to-heroku",
+    "addons": [
+      "heroku-postgresql"
+    ]
+  }

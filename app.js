@@ -11,6 +11,9 @@ try {
     app.get('/', (req, appRes) => {
         appRes.send('Welcome to my test heroku node Web !! muhahahahaha!');
     });
+    app.get('/StagingTest', (req, appRes) => {
+        appRes.send('I make this change to test my Staging !!!');
+    });
     app.get('/mySF_accounts', (req, appRes) => {
         var conn = new jsforce.Connection();
         var userName = 'mjt198010@wise-koala-jxkz5w.com';

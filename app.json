@@ -4,7 +4,7 @@
     "keywords": [
       "app-cloud"
     ],
-    "repository": "https://github.com/YOUR_USERNAME/intro-to-heroku",
+    "repository": "https://github.com/mjt1980/fierce-escarpment-98834",
     "addons": [
       "heroku-postgresql"
     ]
